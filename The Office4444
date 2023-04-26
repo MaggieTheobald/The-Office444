@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The Office</h1>
+<figure>
+    <blockquote cite="https://www.huxley.net/bnw/four.html">
+        <p>“EVERYTHING I HAVE I OWE TO THIS JOB… THIS STUPID, WONDERFUL, BORING, AMAZING JOB.”</p>
+    </blockquote>
+    <figcaption>—JIM HALPERT 
+</figure>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<img src="https://img.nbc.com/sites/nbcunbc/files/images/2016/1/19/MDot-TheOffice-640x360-MP.jpg" width="700
+" height="400">
+
+</body>
+</html>
+
+
+
+     
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #A8DADC;
+  color: black;
+}
+
+/* Increase the font size of the h1 element */
+.header h1 {
+  font-size: 40px;
+}
+
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: White;}
+</style>
+</head>
+<body>
+
+
+<div class="row">
+  <div class="side">...</div>
+  <div class="main">...</div>
+</div>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+/* Increase the font size of the h1 element */
+.header h1 {
+  font-size: 40px;
+}
+
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Column container */
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Main column */
+.main {   
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>NBC NETWORK</h1>
+  <p>Provider of the Office</p>
+</div>
+
+<div class="navbar">
+  <a href="#">Clips</a>
+  <a href="#">Photos</a>
+  <a href="#">Shop</a>
+  <a href="#" class="right">About</a>
+</div>
+
+<div class="row">
+  <div class="side">
+    <h2>Office Funfacts</h2>
+    <h5> 1.)The "Office Olympics" episode was inspired by a real-life office Olympics competition</h5>
+
+<h5>2.)Bob Odenkirk almost played Michael Scott</h5>
+
+<h5>3.)Rainn Wilson got too into a cold open and accidentally injured Angela</h5> 
+
+<h5>4.)Steve Carell is a great ice skater</h5>
+
+<h5>5.)Pam and Jim weren't always endgame</h5>
+    
+    <!DOCTYPE html>
+<html>
+<body>
+
+<h2>Theme Song</h2>
+
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/the-office-theme-song-62557/embed/" frameborder="0" scrolling="no"></iframe>
+
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/5e3ed2111156789.5ffcc4f3ab6ae.jpg" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
+
+    
+    
+    
+    
+    
+    
+   
+    
+    <!DOCTYPE html>
+<html>
+<body>
+
+<h2>Image Size</h2>
+
+<p>Here we specify the width and height of an image with the width and height attributes:</p>
+
+<img src="https://wallpapers.com/images/hd/the-office-cast-at-reception-ovef3brpbf8p2pza.jpg" alt="Girl in a jacket" width="456" height="204">
+
+</body>
+</html>
+    
+    <h5>Created by Ricky Gervais & Stephen Merchant, Developed by Greg Daniels, Based on the BBC Series The Office.</h5>
+    <div
+    <p>Short Summary..</p>
+    <p>From Deedle-Dee Productions, Reveille and Universal Television, the multi-award-winning comedy series "The Office" presents a hilarious documentary-style look at the humorous, and sometimes poignant, foolishness that plagues the 9-to-5 world. Based on the award-winning BBC hit, "The Office" is a fly-on-the-wall "docu-reality" parody of modern American office life that delves into the lives of the workers at Dunder Mifflin, a paper supply company in Scranton, Pennsylvania. In the series, Andy Bernard (Ed Helms, "The Hangover"), the preppy salesman and die-hard Cornell alumni whose endless and unique musical talents keep the office entertained, is the new Dunder Mifflin Scranton manager. Reporting to Andy are the loyal, and often times unmotivated, staff including sales rep Jim Halpert (John Krasinski, "Away We Go," "It's Complicated") who shares his working space with Dwight Schrute (Rainn Wilson, "The Rocker"), the arrogant assistant to the regional manager whose responsibilities have expanded as he became the new owner of the office building. Pam Beesly Halpert (Jenna Fischer, "Walk Hard," "Blades of Glory") is the office receptionist-turned-office administrator whose office romance with Jim led to marriage and the birth of their daughter Cece and son Phillip. A surprising bromance has also formed between Andy and the ambitious distribution coordinator, Darryl Philbin (Craig Robinson, "Hot Tub Time Machine"), who moved his office from the warehouse to the main building. Also starring are Leslie David Baker ("Malcolm in the Middle"), Brian Baumgartner ("Arrested Development"), Kate Flannery ("The Heir Apparent"), Angela Kinsey ("Furry Vengeance"), Paul Lieberstein (writer, "King of the Hill"), Oscar Nuñez ("The Proposal"), Phyllis Smith ("Bad Teacher"), Creed Bratton (former member of The Grass Roots) and Ellie Kemper ("Bridesmaids"). "The Office" is executive-produced by Ben Silverman, Greg Daniels, who developed the series for American audiences, Ricky Gervais, Stephen Merchant, Howard Klein, Paul Lieberstein, Brent Forrester and Dan Sterling..</p>
+  
+  
+  
+  <form>
+  <fieldset>
+    <legend>What are the annual Office rewards called??</legend>
+
+    <input type="radio" id="kraken" name="monster" value="K">
+    <label for="kraken">The Scotties</label><br>
+
+    <input type="radio" id="sasquatch" name="monster" value="S">
+    <label for="sasquatch">The Miflies</label><br>
+
+    <input type="radio" id="mothman" name="monster" value="M">
+    <label for="mothman">The Dundies</label>
+  </fieldset>
+</form>
+
+  
+  
+  
+  <h2>Answer??</h2>
+  <p>Most people answered:</p>
+  <p>
+    The Scotties<meter min="0" max="100" low="25" high="75" optimum="100" value="10"></meter>
+  </p>
+  <p>
+    The Miflies<meter min="0" max="100" low="25" high="75" optimum="100" value="50"></meter>
+  </p>
+  <p>
+    The Dundies<meter min="0" max="100" low="25" high="75" optimum="100" value="80"></meter>
+  </p>
+
+  
+  
+  
+  
+  
+  
+  <br>
+    <h2>Success Story</h2>
+   
+ 
+    
+   
+    
+    
+    
+    <!DOCTYPE html>
+<html>
+<body>
+
+
+
+<img src=https://media.khou.com/assets/KENS/images/a7ba3368-5eff-4f42-87f1-cfee667b6c29/a7ba3368-5eff-4f42-87f1-cfee667b6c29_750x422.jpg alt="Girl in a jacket" width="456" height="204">
+
+
+</body>
+</html>
+
+    <p>Since its premiere on NBC in March 2005..</p>
+    <p>"The Office" has established itself as a genuine hit, earning prestigious television honors such as the 2006 Emmy Award for Outstanding Comedy Series, 2006 Peabody Award, 2006 and 2008 AFI Honors, Producers Guild Award, Writers Guild Award, SAG Award for Outstanding Performance by an Ensemble in a Comedy, Ace Eddie Award for editing and a Television Critic's Association Award for Outstanding Achievement in Comedy.</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="https://www.rollingstone.com/wp-content/uploads/2020/07/The-Office.jpg" style="width:100%">
+  <div class="text"></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="https://variety.com/wp-content/uploads/2020/12/The-Office-Peacock.png?w=681&h=383&crop=1" style="width:100%">
+  <div class="text"></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="https://images6.fanpop.com/image/photos/40100000/The-Office-the-office-40154918-700-461.jpg" style="width:100%">
+  <div class="text"></div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+<p><h2>Main Characters</h2><br>
+
+<table>
+  <tr>
+    <th>Character</th>
+    <th>Description</th>
+    <th>Actor</th>
+  </tr>
+  <tr>
+    <td>Dwight Shrute</td>
+    <td>A renaissance man of sorts, Dwight spent much of the show pining for the manager's job, falling prey to Jim's pranks, and being a beet farmer. And in an unlikely pairing, he falls for Angela.</td>
+    <td>Rainn Wilson</td>
+  </tr>
+  <tr>
+    <td>Michael Scott</td>
+    <td>The protagonist of the NBC sitcom. Michael is the regional manager of the Scranton, Pennslyvania branch of paper company.</td>
+    <td>Steve Carell</td>
+  </tr>
+  <tr>
+    <td>Pam Beesly</td>
+    <td>Secretary-turned-saleswoman with a passion for art, Pam bonds with Jim early on over pranks.</td>
+    <td>Jenna Fischer</td>
+  </tr>
+  <tr>
+    <td>Stanley Hudson</td>
+    <td>Every office has a consistently lethargic worker, and this is Dunder Mifflin's guy. The most excited Stanley ever got was over Pretzel Day.</td>
+    <td>Leslie David Becker</td>
+  </tr>
+  <tr>
+    <td>Angela Martin</td>
+    <td>Critical, judgmental, picky and close-minded, her life takes an interesting turn when she has a baby by Dwight but marries "the senator" who, it turns out, everyone knows is gay but her.</td>
+    <td>Angela Kinsely</td>
+  </tr>
+   </tr>
+  <tr>
+    <td>Toby Flenderson</td>
+    <td>The emotional punching bag for, well, everyone. As the one-person human-resources department, he tried to keep things under control in an office that rarely was. Side hobby: Obsessed with the Scranton strangler case.</td>
+    <td>Paul Lieberstein</td>
+  </tr>
+  <tr>
+    <td>Kevin Malone</td>
+    <td>Part of the accounting group, his childlike, oblivious wonders often left him noticing little around him if it wasn't edible and free.</td>
+    <td>Brian Baumgartner</td>
+    <tr>
+    <td>Jim</td>
+    <td>Subdued prankster whose interest in selling paper is a distant third priority behind pranking Dwight and falling in love with Pam.</td>
+    <td>John Krasinski</td>
+    <tr>
+    <td>Meredith Palmer</td>
+    <td>Every worker has a skill, and Meredith had two that were poorly kept secrets: She drank, and she slept around. A lot.</td>
+    <td>Kate Flannery</td>
+    <tr>
+    <td>Phyllis LapinVance</td>
+    <td>Sweet-voiced, the love of her life is Bob Vance, who owns a refrigeration company in the building. Claim to fame: Likes to have sex in the office with her husband.</td>
+    <td>Phyllis Smith</td>
+    <tr>
+    <td>Oscar Martinez</td>
+    <td>Openly gay, Oscar's nemesis-turned-friend in the office ends up being the same person -- his fellow accountant, Angela.</td>
+    <td>Oscar Nunez</td>
+</table>
+
+</body>
+</html>
+<br>
+
+<p><h2>Where was the show made?</h2><br>
+    <h5>Most of the filming of The Office took place in Scranton Business Park. It is a grey-looking, drab, your average office building, which is in real life, an actual office. This location can be viewed below:</h5><br>
+
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-75.8489227294922%2C41.32706850188449%2C-75.56053161621095%2C41.48209063522357&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=12/41.4046/-75.7047">View Larger Map</a></small>
+
+
+<p><h2>The 10 Most Searched For Clips</h2><br>
+
+<iframe width="600" height="330" src="https://www.youtube.com/embed/jaXoWVZN2lc" title="The Office | Top 10 Most Searched For Clips of ALL TIME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+<p><h2>Best Of Michael Scott</h2><br>
+<br>
+
+<iframe width="600" height="300" src="https://www.youtube.com/embed/IBJJrZ5LAVQ" title="Best of Michael Scott  - The Office US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+<p><!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+</head>
+<body>
+
+
+
+<button class="button button1">Click here for more</button><br>
+<button class="button button2">Next Page</button><br>
+
+</body>
+</html>
+
+
+
+
+</body>
+</html> 
